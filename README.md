@@ -14,7 +14,7 @@
 
  
 
-![Regina GitHub stats](https://github-readme-stats.vercel.app/api?username=ReginaPompeo&show_icons=true&theme=radical)
+![Carlos GitHub stats](https://github-readme-stats.vercel.app/api?username=CarlosQw32&show_icons=true&theme=radical)
 
  
 
